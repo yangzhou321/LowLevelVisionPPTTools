@@ -1,9 +1,9 @@
-# Low Level Vision PPT Tools（PowerPoint 插件工具：低级视觉方法排版、对比与展示辅助工具）
+# Low Level Vision PPT Tools（PowerPoint 插件工具：low-level vision方法排版、对比与展示辅助工具）
 
 ## 工具简介
 A specialized PowerPoint add-in tool designed for low-level vision applications, enabling visual comparison of different methods (algorithms).
 
-本工具是一个适用于低级视觉任务设计的 PowerPoint 加载项（Add-in），用于快速、便捷地排版、展示和对比不同方法的视觉效果，支持图像排版与局部细节放大，适用于学术演示和实验展示。
+本工具是一个适用于low-level视觉任务设计的 PowerPoint 加载项（Add-in），用于快速、便捷地排版、展示和对比不同方法的视觉效果，支持图像排版与局部细节放大，适用于学术演示和实验展示。
 
 ---
 
@@ -28,7 +28,9 @@ A specialized PowerPoint add-in tool designed for low-level vision applications,
 ---
 
 ## 使用指南
+
 ### 先排版，排版使用指南
+
 1. 打开一份 PPT 文件，**新建一个空白页**。
 2. 插入你想要展示的图像，**请严格按照以下方式插入图像，否则可能导致排版错乱奥**：
 
@@ -51,6 +53,7 @@ A specialized PowerPoint add-in tool designed for low-level vision applications,
 4.根据弹窗设置进行随心所欲地调整！
 
 ### 排版后，细节放大使用指南
+
 1、自行插入一个（仅需一个）矩形框在任一一个图像上，自行调整所需的区域的大小、位置，矩形框设置无填充（懂得都懂），调好喜欢的颜色。这一步代表你需要放大的区域；
 2、选择所有要细节放大的图像及刚才的框（如同一图像用不同方法跑出来的所有图像）；
 3、点击工具栏，加载项的插件中局部放大按钮；

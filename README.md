@@ -12,7 +12,7 @@ A specialized PowerPoint add-in tool designed for low-level vision applications,
 1. 点击右侧release，下载其中最新版本的压缩包。
 2. 将压缩包解压到你希望保存的位置。
 3. 打开解压后的文件夹，找到其中的 `setup.exe` 文件。
-4. **双击运行 `setup.exe`** 开始安装。
+4. **双击运行 `setup.exe`** 开始安装，要是安装出错了试一下右键管理员身份运行。
 5. 安装完成后，**重新启动 PowerPoint**。
 6. 在 PowerPoint 的顶部工具栏中，点击“加载项”，即可看到 `嗑盐绘图` 插件。
 

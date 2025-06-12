@@ -9,7 +9,7 @@ A specialized PowerPoint add-in tool designed for low-level vision applications,
 
 ## 安装指南
 
-1. 下载压缩包。
+1. 点击右侧release，下载其中最新版本的压缩包。
 2. 将压缩包解压到你希望保存的位置。
 3. 打开解压后的文件夹，找到其中的 `setup.exe` 文件。
 4. **双击运行 `setup.exe`** 开始安装。

@@ -13,8 +13,9 @@ A specialized PowerPoint add-in tool designed for low-level vision applications,
 2. 将压缩包解压到你希望保存的位置。
 3. 打开解压后的文件夹，找到其中的 `setup.exe` 文件。
 4. **双击运行 `setup.exe`** 开始安装，要是安装出错了试一下右键管理员身份运行。
-5. 安装完成后，**重新启动 PowerPoint**。
-6. 在 PowerPoint 的顶部工具栏中，点击“加载项”，即可看到 `嗑盐绘图` 插件。
+5. 如果已安装旧版本，请在windows搜索栏搜索**添加或删除程序**应用，搜索**pic2ppt**，然后卸载，再安装新版本就好
+6. 安装完成后，**重新启动 PowerPoint**。
+7. 在 PowerPoint 的顶部工具栏中，点击“加载项”，即可看到 `嗑盐绘图` 插件。
 
 ### 如果未能在PPT的工具栏中看到插件：
 
